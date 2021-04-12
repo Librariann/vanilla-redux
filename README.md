@@ -1,1 +1,1 @@
-#vanilla-redux!
+#study redux!
